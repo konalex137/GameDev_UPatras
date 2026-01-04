@@ -422,12 +422,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spawnObjects:
-  - {fileID: 6340727565635511793, guid: ba386c02d7f0ae641afd9da71bf20426, type: 3}
-  - {fileID: 2219044384162861479, guid: b30d04eb3142c284aa7bfa4e12284536, type: 3}
-  - {fileID: 5191755405730983208, guid: e49a0716d9fab4a469a9be2367061e4b, type: 3}
-  - {fileID: 3404961428355695201, guid: 9da7b0578751d92438654182876c2d1a, type: 3}
   - {fileID: 3103215965914489079, guid: b07bd2e8bbb0e9845a48664a047d26a0, type: 3}
-  - {fileID: 1338298493900315134, guid: e4c849fa7095f4140b10bcbc64fcb936, type: 3}
+  - {fileID: 4770964143034890438, guid: 9b4d2b71d09eddb42b77ea9781523497, type: 3}
 --- !u!4 &306941562
 Transform:
   m_ObjectHideFlags: 0
@@ -700,7 +696,7 @@ PrefabInstance:
     - target: {fileID: 3440782900558166964, guid: 95817be6040ecd84886d3bdd720fc2f0,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -44.79
+      value: -41.3
       objectReference: {fileID: 0}
     - target: {fileID: 3440782900558166964, guid: 95817be6040ecd84886d3bdd720fc2f0,
         type: 3}
